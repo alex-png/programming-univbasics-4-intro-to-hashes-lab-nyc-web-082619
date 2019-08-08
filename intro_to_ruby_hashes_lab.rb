@@ -5,6 +5,7 @@ end
 
 def my_hash
  my_hash =  {:key => "value" } 
+ return my_hash
 end
 
 #def pioneer
