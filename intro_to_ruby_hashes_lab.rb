@@ -4,8 +4,7 @@ return new_hash
 end
 
 def my_hash
- my_hash =  {:key => "value" } 
- return my_hash
+ my_hash =  {"key" => "value" } 
 end
 
 #def pioneer
