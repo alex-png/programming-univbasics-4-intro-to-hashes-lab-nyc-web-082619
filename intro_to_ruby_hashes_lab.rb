@@ -3,9 +3,9 @@ new_hash = {}
 return new_hash
 end
 
-#def my_hash
-# my_hash =  { key: "value" } 
-#end
+def my_hash
+ my_hash =  { key: "value" } 
+end
 
 #def pioneer
  # pioneer = {:name => 'Grace Hopper'}  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
